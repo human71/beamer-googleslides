@@ -2,6 +2,8 @@
 
 Welcome to the Beamer-Styled PowerPoint Presentation Theme Repository! This GitHub repository is your one-stop destination for a seamless blend of the elegance of LaTeX Beamer themes and the convenience of PowerPoint presentations.
 
+Explore thetemplate and start creating presentations that stand out: https://docs.google.com/presentation/d/1hM8TLgkt7lAGXS3bUXQFfnrKtV7Daejf
+
 Key Features:
 1. Beamer Inspired Design: Our repository offers a collection of PowerPoint (.pptx) presentation themes inspired by popular LaTeX Beamer styles. Enjoy the aesthetic appeal and professional look of Beamer in the familiar PowerPoint environment.
 
@@ -13,6 +15,6 @@ Key Features:
 
 Elevate your PowerPoint presentations to the next level with the Beamer-Styled PowerPoint Presentation Theme Repository. Whether you're a student, educator, business professional, or researcher, these themes will help you create visually appealing and impactful presentations. Download, customize, and impress your audience today!
 
-Explore thetemplate and start creating presentations that stand out: https://docs.google.com/presentation/d/1hM8TLgkt7lAGXS3bUXQFfnrKtV7Daejf
+
 
 *Please note that while these themes are inspired by Beamer, this repository is designed for use with Google Slides  and does not require LaTeX knowledge. Enjoy the best of both worlds – Beamer aesthetics in a Slides environment!*
